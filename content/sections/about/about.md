@@ -1,6 +1,6 @@
 ---
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About miself"
+imageAlt: "About"
 ---
 
 Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
