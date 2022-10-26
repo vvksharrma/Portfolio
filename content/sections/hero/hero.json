@@ -1,0 +1,22 @@
+{
+  "intro": "Hello",
+  "heroPhoto": {
+    "src": "../../images/vvk-avatar.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Vivek Sharma",
+  "subtitle": {
+    "prefix": "I am a Web Developer ",
+    "highlight": ":)",
+    "suffix": "."
+  },
+  "description": "This is my portfolio site where you can know about me.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true 
+  }
+}

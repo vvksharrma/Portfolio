@@ -1,0 +1,13 @@
+{
+  "name": "Write a mail to me",
+  "email": "vvk17sharma@gmail.com",
+  "description": "Love to know about you, Connect with me here.",
+  "image": {
+    "src": "../../images/vvk-avatar.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}
